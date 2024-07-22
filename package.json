@@ -1,6 +1,8 @@
 {
   "name": "marisela-api",
   "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -23,6 +25,6 @@
     "userland": "^0.4.1"
   },
   "engines": {
-    "node": "21.7.1"
+    "node": "20.x"
   }
 }
